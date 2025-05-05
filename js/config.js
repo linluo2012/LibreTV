@@ -119,6 +119,16 @@ const API_SITES = {
         name: '玉兔资源',
         adult: true
     }
+    niuniu: {
+        api: 'https://api.niuniuzy.me',
+        name: '牛牛资源',
+        adult: true
+    }
+    jinying: {
+        api: 'https://jinyingzy.com',
+        name: '金鹰资源',
+        adult: true
+    }
     // 您可以按需添加更多源
 };
 
